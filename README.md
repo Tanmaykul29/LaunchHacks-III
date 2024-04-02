@@ -51,9 +51,3 @@ Through the development of EduApp, we learned valuable lessons in:
 - **User-Centric Design:** Understanding the importance of user-centric design principles in creating intuitive and engaging interfaces.
 - **Collaboration and Communication:** Enhancing teamwork and communication skills through collaborative development and problem-solving.
 
-## What's next for EduApp
-In the future, we plan to:
-
-- **Expand Platform Capabilities:** Integrate additional features such as real-time collaboration, personalized learning recommendations, and integration with Learning Management Systems (LMS).
-- **Enhance AI Algorithms:** Continuously improve AI algorithms for note generation and quiz creation to ensure accuracy and efficiency.
-- **Community Engagement:** Foster a community-driven approach by soliciting feedback from users and incorporating their suggestions to enhance EduApp's functionality and user experience.
